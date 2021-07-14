@@ -1,5 +1,5 @@
 ## Telco-Churn
-This is a project to predict Telco customer churn. Since I work for a telecommunications company, I thought this particular project would be an interesting analysis of customer churn.
+This is a project to better understand and predict Telco customer churn. Since I work for a telecommunications company, I thought this particular project would be an interesting analysis of customer churn.
 
 ## Hardware Requirement
 This project does not require any special hardware to run. It should run fine on any modern day CPU.
